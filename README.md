@@ -1,4 +1,4 @@
-### Wordpairs (Assignment 1)
+Wordpairs
 #### Bradley Dowling
 #### FALL 2021 - CS360
 
